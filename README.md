@@ -25,7 +25,7 @@ It will launch a jupyter notebook file in Colab. You can follow the instructions
 Once you get you are comfortable with setting up your environment variables you can navigate back to https://colab.research.google.com/github/ and open a different sample script. You will be able to run any of them that your API keys have access to. 
 
 # Saving Scripts Locally
-If you click 'file' 
+If you click 'file' you can save a copy of a script locally, to your drive, to a github repository where you have write access, or locally on your machine.
 
 ![Saving a Copy to Google Drive](https://github.com/intrinio/intrinio-python-examples/blob/master/Images/Save%20A%20Copy%20In%20Drive.png)
 
